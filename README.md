@@ -16,5 +16,4 @@ Soy un desarrollador apasionado por la creación de soluciones integrales, desde
 
 ### 📫 ¿Cómo contactarme?
 
-* 💼 LinkedIn: [tu-perfil-de-linkedin](https://linkedin.com/in/tu-perfil)
-* ✉️ Correo: l22070045@valladolid.tecnm.mx
+* ✉️ Correo electrónico: l22070045@valladolid.tecnm.mx
